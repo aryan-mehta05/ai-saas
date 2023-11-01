@@ -8,6 +8,8 @@ import { Code, ImageIcon, LayoutDashboard, MessageSquare, Music, Settings, Video
 
 import { cn } from "@/lib/utils";
 
+// TODO: Add the Free Counter
+
 const poppins = Montserrat({
   weight: '600',
   subsets: ['latin']
